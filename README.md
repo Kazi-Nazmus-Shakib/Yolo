@@ -1,2 +1,2 @@
 # Yolo
-Yolo badge
+Yolo badge earned
